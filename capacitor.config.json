@@ -1,0 +1,10 @@
+{
+  "appId": "in.spicesinfo.poptheballon",
+  "appName": "PopTheBallon",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
